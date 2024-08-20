@@ -11,4 +11,4 @@ Explore the wisdom of great philosophers and see how their timeless ideas can en
 ### Installation
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/philosophers-project.git
+   git clone git@github.com:mhmdjnde/philosophers.git
